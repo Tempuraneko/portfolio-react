@@ -92,18 +92,10 @@ export default function App() {
           />
 
           <ProjectCard
-            title="UnderCode · 2D RPG Programming Game"
-            meta="Unity · C# · Game-Based Learning"
-            desc="An educational RPG where players defeat enemies by answering programming questions (MCQs and coding challenges). I designed the battle flow and coding-question mechanics to gamify CS learning. (FYP in progress)"
-            href="https://github.com/Tempuraneko/UnderCode/blob/main/docs/UnderCode_Documentation.pdf"
-            linkText="View PDF documentation on GitHub"
-          />
-
-          <ProjectCard
             title="Workshop Job Tracker"
             meta="Flutter · Firebase · Time Tracking"
             desc="A mobile app that helps workshop mechanics accept jobs, track time, and capture digital sign-off. I built the status & time tracking module and integrated Firestore updates."
-            href="https://github.com/Tempuraneko/job-tracker"  // update when ready
+            href="https://github.com/Tempuraneko/job-tracker-flutter"  
             linkText="View on GitHub"
           />
         </section>
@@ -112,7 +104,7 @@ export default function App() {
           <h2>Contact</h2>
           <p>I'm open to internship opportunities. Reach me here:</p>
           <ul className="contact-list">
-            <li><strong>Email:</strong> your.email@example.com</li>
+            <li><strong>Email:</strong> ngjiawei0201@gmail.com</li>
           </ul>
         </section>
       </main>
